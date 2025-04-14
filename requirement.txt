@@ -1,6 +1,7 @@
-streamlit
-beautifulsoup4
-nltk
-pandas
-matplotlib
+streamlit==1.33.0
+beautifulsoup4==4.12.3
+nltk==3.8.1
+pandas==2.2.2
+matplotlib==3.8.3
+
 
