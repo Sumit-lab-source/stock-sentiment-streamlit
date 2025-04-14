@@ -3,8 +3,3 @@ beautifulsoup4==4.12.3
 nltk==3.8.1
 pandas==2.2.2
 matplotlib==3.8.3
-
-git add requirements.txt
-git commit -m "Updated requirements for Streamlit Cloud"
-git push
-
