@@ -79,3 +79,10 @@ if tickers:
             st.bar_chart(pivot_df)
         else:
             st.warning("No news data could be parsed.")
+            import flet as ft
+
+def main(page: ft.Page):
+    page.title = "Hello Flet"
+    page.add(ft.Text("Welcome to Flet!"))
+
+ft.app(target=main)
